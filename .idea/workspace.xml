@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aa7610d-1273-4e43-9503-890348f3b126" name="Changes" comment="adding Lab002 file">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +46,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Task_02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717526556304</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding Lab002 file">
+      <option name="closed" value="true" />
+      <created>1718290262750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718290262750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding Lab002 file" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Lab002 file" />
   </component>
 </project>
