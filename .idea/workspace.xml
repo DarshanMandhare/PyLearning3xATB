@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa7610d-1273-4e43-9503-890348f3b126" name="Changes" comment="adding Lab002 file">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Task_02.py" afterDir="false" />
+    <list default="true" id="5aa7610d-1273-4e43-9503-890348f3b126" name="Changes" comment="Task_02">
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab 004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +56,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab 004.executor": "Run",
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
     "Python.Task_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -78,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718290262750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding Lab002 file">
+      <option name="closed" value="true" />
+      <created>1718291997846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718291997846</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
